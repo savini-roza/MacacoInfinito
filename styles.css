@@ -1,0 +1,13 @@
+.body-app {
+    margin-top: 5vh;
+}
+
+#outputBox {
+    height: 300px;
+    resize: none;
+    margin-bottom: 5vh;
+}
+
+#btnClear {
+    display: none;
+}
